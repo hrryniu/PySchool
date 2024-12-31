@@ -1,0 +1,20 @@
+Date: 31/12/2024
+Time: 9:26
+Phone Number: +48781035965
+Message: Test
+--------------------
+Date: 31/12/2024
+Time: 9:29
+Phone Number: +48665565495
+Message: Test
+--------------------
+Date: 31/12/2024
+Time: 9:30
+Phone Number: +48781035965
+Message: Test
+--------------------
+Date: 31/12/2024
+Time: 9:37
+Phone Number: +48665565495
+Message: Test
+--------------------

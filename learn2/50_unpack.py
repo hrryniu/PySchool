@@ -16,4 +16,6 @@ print(total(*coins), "Knuts")
 
 #można też rozpakować słownik/distionary/ ale to tego potrzeba wpisać nie jedną ale dwie gwiazdki
 
-#jeśli w liście pojawi się jakiś nowy argument to rozpakowanie się nie uda bo funkcja total potrzebuje tylko trzech argumentów
+#jeśli w liście pojawi się jakiś nowy argument to rozpakowanie się
+# nie uda bo funkcja total potrzebuje tylko trzech argumentów
+#ROZWIĄZANIE W PLIKU 51

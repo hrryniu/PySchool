@@ -31,3 +31,6 @@ def guess_code():
 
     return guess
 
+def check_code(guess,real_code):
+    
+
